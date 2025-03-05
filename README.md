@@ -1,4 +1,5 @@
 ### Nyanpasu!! 👋😺
+- 拙者はアレックスでござる！日本語を勉強しているゲーマーです。レトロゲームが好き
 - 🔭 I’m currently working on React web development and C++ Gaming projects.  
   My Portfolio/freenlance development site @ https://codetensai.vercel.app/
 - 🌱 I’m utilizing React, Django and UnrealEngine for my projects
