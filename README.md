@@ -11,6 +11,6 @@
 - CPUプロセッサ： AMD Ryzen 5 3600 6 Core 12 Threads 
 - マザーボード (Motherboard) ： TUF B450M-PLUS GAMING 
 - 物理メモリ　(RAM)：32GB Dual-Channel DDR4 
-- GPUｸﾞﾗﾌｨｯｸﾎﾞｰﾄﾞ：11GB NVIDIA GeForce GTX 1080Ti 
+- GPUｸﾞﾗﾌｨｯｸﾎﾞｰﾄﾞ： 11GB NVIDIA GeForce GTX 1080Ti 
 - Case : be quiet! White 
 - OS : Linux Mint Cinnamon/i3wm
