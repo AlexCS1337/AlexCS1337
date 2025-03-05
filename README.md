@@ -6,3 +6,11 @@
 - 💬 Ask me about stuff
 - 📫 How to reach me: tba
 - ⚡ Fun fact: I like salad
+
+## Specs
+- CPU AMD Ryzen 5 3600 6 Core 12 Threads 
+- Motherboard TUF B450M-PLUS GAMING 
+- RAM 32GB Dual-Channel DDR4 
+- GPU 11GB NVIDIA GeForce GTX 1080Ti 
+- Case be quiet! White 
+- OS Linux Mint Cinnamon/i3wm
