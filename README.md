@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web apps and gaming projects
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,cs,vim,react,django,unreal,bash,htmx&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,aws,docker,vim,c,cpp,cs,django,unreal,bash,react,htmx&perline=4)](https://skillicons.dev)
 
 ### Specs
 - CPU AMD Ryzen 5 3600 6 Core 12 Threads 
