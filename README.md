@@ -1,5 +1,6 @@
 ### Nyanpasu!! 👋😺
-- 🔭 I’m currently working on React web development and C++ Gaming projects. My Portfolio/freenlance development site @ https://codetensai.vercel.app/
+- 🔭 I’m currently working on React web development and C++ Gaming projects.
+  My Portfolio/freenlance development site @ https://codetensai.vercel.app/
 - 🌱 I’m utilizing React, Django and UnrealEngine for my projects
 - 👯 I’m looking to collaborate on web apps and gaming projects
 
