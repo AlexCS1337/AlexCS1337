@@ -7,9 +7,9 @@
 - 📫 How to reach me: tba
 - ⚡ Fun fact: I like salad
 
-<h3 aligh="center">
+<p aligh="center">
   Skills
-</h3>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,c#,vim,react,django" />
