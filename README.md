@@ -8,9 +8,9 @@
 [![My Skills](https://skillicons.dev/icons?i=git,aws,docker,vim,c,cpp,cs,django,unreal,bash,react,htmx&perline=4)](https://skillicons.dev)
 
 ### Specs
-- CPU AMD Ryzen 5 3600 6 Core 12 Threads 
-- Motherboard TUF B450M-PLUS GAMING 
-- RAM 32GB Dual-Channel DDR4 
-- GPU 11GB NVIDIA GeForce GTX 1080Ti 
-- Case be quiet! White 
-- OS Linux Mint Cinnamon/i3wm
+- CPUプロセッサ： AMD Ryzen 5 3600 6 Core 12 Threads 
+- マザーボード (Motherboard) ： TUF B450M-PLUS GAMING 
+- 物理メモリ　(RAM)：32GB Dual-Channel DDR4 
+- GPUｸﾞﾗﾌｨｯｸﾎﾞｰﾄﾞ：11GB NVIDIA GeForce GTX 1080Ti 
+- Case : be quiet! White 
+- OS : Linux Mint Cinnamon/i3wm
