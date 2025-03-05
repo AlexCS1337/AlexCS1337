@@ -11,7 +11,7 @@
   Skills
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,c#,vim,react,django" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,cs,vim,react,django,unreal,bash,htmx&perline=4" />
   </a>
   </p>
 </div>
