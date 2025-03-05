@@ -10,7 +10,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,c++,c#,vim,react,django" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,c#,vim,react,django" />
   </a>
 </p>
 
