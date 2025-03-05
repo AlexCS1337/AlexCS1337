@@ -7,14 +7,8 @@
 - 📫 How to reach me: tba
 - ⚡ Fun fact: I like salad
 
-<div align="center">
-  Skills
-  <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,cs,vim,react,django,unreal,bash,htmx&perline=4" />
-  </a>
-  </p>
-</div>
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,cs,vim,react,django,unreal,bash,htmx&perline=4)](https://skillicons.dev)
 
 ### Specs
 - CPU AMD Ryzen 5 3600 6 Core 12 Threads 
